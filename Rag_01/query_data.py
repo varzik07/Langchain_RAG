@@ -6,8 +6,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = api_key
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
