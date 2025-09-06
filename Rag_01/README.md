@@ -2,7 +2,7 @@
 
 1. Now run this command to install dependenies in the requirements.txt file.
 
- python pip install -r requirements.txt
+ pip install -r requirements.txt
  
 2. Install markdown depenendies with:
 
